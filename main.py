@@ -4,7 +4,7 @@ from math import *
 import time
 
 Fenetre = Tk()
-Fenetre.title("Bounce")
+Fenetre.title("Bounce !")
 Fenetre.configure(width=1200, height=680)
 
 Game = Canvas(Fenetre, bg="#E2FFEE", width=1200, height=680)
